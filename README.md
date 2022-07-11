@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to my Github!
+- 👨‍🎓 I'm currently a senior at UC Irvine looking for opportunities in software engineering.
+- 🔭 I’m currently working on projects involving databases and machine learning.
+- 📫 Contact me at rahulkoonantavida@gmail.com
 
 <!--
 **rahul-koonantavida/rahul-koonantavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
